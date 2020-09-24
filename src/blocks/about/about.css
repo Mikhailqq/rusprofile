@@ -1,0 +1,11 @@
+@import url('./__link/about__link.css');
+@import url('./__title/about__title.css');
+@import url('./__arrow/about__arrow.css');
+@import url('./__image/about__image.css');
+
+.about {
+	    background-color: #F6F4F4;
+	    text-align: center;
+	    display: flex;
+	    flex-direction: column;
+}

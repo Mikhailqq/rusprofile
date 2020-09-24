@@ -1,0 +1,12 @@
+@import url('./__item/analytics__item.css');
+@import url('./__item-title/analytics__item-title.css');
+@import url('./__item-paragraph/analytics__item-paragraph.css');
+@import url('./__item-span/analytics__item-span.css');
+@import url('./__item-percent/analytics__item-percent.css');
+@import url('./__about/analytics__about.css');
+
+.analytics {
+/*	display: flex;
+	flex-direction: column;
+	justify-content: space-between;*/
+}

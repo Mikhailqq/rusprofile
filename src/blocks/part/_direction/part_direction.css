@@ -1,0 +1,8 @@
+
+@media all and (max-width : 768px) {
+    .part_direction {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+}

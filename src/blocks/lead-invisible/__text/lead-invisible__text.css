@@ -1,0 +1,10 @@
+.lead-invisible__text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+    opacity: 0.8;
+    margin: 0;
+    
+}

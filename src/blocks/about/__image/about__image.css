@@ -1,0 +1,12 @@
+.about__image {
+    border: 8px solid #FFFFFF;
+    border-radius: 10px;
+    transform: translate(10px, 50px);
+}
+
+@media all and (max-width : 900px) {
+    .about__image {
+        width: 700px;
+        transform: translate(0px, 50px);
+    }
+}

@@ -1,0 +1,36 @@
+.footer__feedback {
+    flex: 0 0 138px;
+    width: 138px;
+    position: relative;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 52px 15px 10px;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 12px -2px rgba(38, 51, 58, 0.164691);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #1256F5;
+    margin-right: 12px;
+}
+
+.footer__feedback:before {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 50%;
+    background: url('./../../../images/anchor.png') no-repeat;
+    width: 36px;
+    height: 40px;
+    margin-left: -21px;
+}
+
+@media all and (max-width : 1024px) {
+    .footer__feedback {
+        flex: 0 0 100px;
+        box-sizing: border-box;
+    }
+}

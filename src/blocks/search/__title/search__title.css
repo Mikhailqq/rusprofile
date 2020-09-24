@@ -1,0 +1,22 @@
+.search__title {
+	font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #3E3467;
+margin: 0;
+margin-right: 32px;
+}
+
+@media all and (max-width : 1024px) {
+    .search__title {
+        margin-right: 0;
+		margin-bottom: 20px;
+    }
+}
+
+@media all and (max-width : 768px) {
+    .search__title {
+		display: none;
+    }
+}

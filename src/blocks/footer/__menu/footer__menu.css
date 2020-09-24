@@ -1,0 +1,15 @@
+.footer__menu {
+    padding: 16px 28px;
+    font-weight: 300;
+    box-sizing: content-box;
+    background: #FFFFFF;
+    box-shadow: 0 4px 12px 0 hsla(0, 0%, 58.8%, .5);
+    margin: 0 12px;
+    display: flex;
+    flex-direction: column;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    color: #35383B;
+}

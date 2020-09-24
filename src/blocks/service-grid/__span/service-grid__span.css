@@ -1,0 +1,7 @@
+.service-grid__span {
+    background: linear-gradient(0deg, #000000, #000000), url(pfr.png);
+background-blend-mode: color, normal;
+opacity: 0.3;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}

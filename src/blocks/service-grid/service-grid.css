@@ -1,0 +1,10 @@
+@import url('./__picture/service-grid__picture.css');
+@import url('./__span/service-grid__span.css');
+
+.service-grid {
+	    margin-top: 80px;
+    margin-bottom: 46px;
+    /* display: inline-flex; */
+    position: relative;
+    justify-content: center;
+}

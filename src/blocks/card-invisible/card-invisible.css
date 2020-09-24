@@ -1,0 +1,37 @@
+@import url('./__title/card-invisible__title.css');
+@import url('./__text/card-invisible__text.css');
+
+
+
+.card-invisible {
+    max-width: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    position: absolute;
+    top: 14%;
+    right: 12%;
+    overflow: hidden;
+    z-index: 0;
+    box-shadow: 0px 6px 10px -2px rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    box-sizing: border-box;
+    padding: 17px 23px ;
+    background: #F2F2F5;
+
+
+}
+
+@media all and (max-width : 1024px) {
+    .card-invisible {
+        top: 7%;
+        right: 3%;
+    }
+}
+
+@media all and (max-width : 768px) {
+    .card-invisible {
+        display: none;
+    }
+}

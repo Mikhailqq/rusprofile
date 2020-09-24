@@ -1,0 +1,11 @@
+@import url('./__title/search__title.css');
+
+.search {
+	background-color: #ffff;
+	text-align: center;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0;
+	margin-top: 19px;
+	margin-bottom: 19px;
+}

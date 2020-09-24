@@ -1,0 +1,9 @@
+.caption_direction {
+
+}
+
+@media all and (max-width : 768px) {
+    .caption.caption_direction {        
+        margin: auto;
+    }
+}

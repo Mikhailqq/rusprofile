@@ -1,0 +1,10 @@
+.lead-invisible__date {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #33393E;
+    opacity: 0.8;
+    margin: 0;
+    margin-top: 10px;
+}

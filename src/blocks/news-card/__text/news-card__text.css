@@ -1,0 +1,15 @@
+.news-card__text {
+	font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 26px;
+color: #7A7492;
+margin: 0;
+}
+
+@media all and (max-width : 768px) {
+    .news-card__text {
+		font-size: 16px;
+		line-height: 20px;
+    }
+}

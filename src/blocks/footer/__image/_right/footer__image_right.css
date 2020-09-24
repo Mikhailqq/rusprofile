@@ -1,0 +1,8 @@
+.footer__image_right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    object-fit: cover;
+    width: 358px;
+    height: 291px;
+}

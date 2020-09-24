@@ -1,0 +1,12 @@
+@import url('./__title/select__title.css');
+@import url('./__image/select__image.css');
+
+.select {
+    background: #FFFFFF;
+    border: 1px solid #346DF1;
+    box-sizing: border-box;
+    padding: 4px;
+    border-radius: 3px;
+    margin-left: -90px;
+    margin-right: 90px;
+}

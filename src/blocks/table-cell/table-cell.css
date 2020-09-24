@@ -1,0 +1,11 @@
+@import url('./__date/table-cell__date.css');
+@import url('./__span/table-cell__span.css');
+@import url('./__paragraph/table-cell__paragraph.css');
+
+.table-cell {
+	display: grid;
+	grid-template-columns: 53px 386px;
+	/*grid-template-rows: 1fr 1fr;*/
+	grid-column-gap: 33px;
+	margin-top: 10px;
+}

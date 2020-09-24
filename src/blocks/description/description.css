@@ -1,0 +1,24 @@
+@import url('./__container/description__container.css');
+@import url('./__title/description__title.css');
+@import url('./__subtitle/description__subtitle.css');
+@import url('./__link/description__link.css');
+@import url('./__images/description__images.css');
+@import url('./__image/description__image.css');
+@import url('./_section/description_section.css');
+
+.description {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #F2F2F2;
+	position: relative;
+}
+
+@media all and (max-width : 1024px) {
+  .description {
+    max-width: 1024px;
+   }
+}

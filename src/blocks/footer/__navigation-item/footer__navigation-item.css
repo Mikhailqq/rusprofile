@@ -1,0 +1,11 @@
+.footer__navigation-item {
+	display: block;
+    color: #35383b;
+    line-height: 15px;
+    margin: 0 0 4px;
+    transition: color .2s;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    margin: 0;
+}

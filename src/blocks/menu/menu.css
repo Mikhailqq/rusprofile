@@ -1,0 +1,18 @@
+@import url(./__item/menu__item.css);
+@import url('./__item-image/menu__item-image.css');
+
+.menu {
+    font-family: 'Rubik', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    /* max-width: 537px; */
+}
+
+@media all and (max-width : 1024px) {
+    .menu {
+        /* margin-left: 100px; */
+        margin-right: 200px;
+    }
+}

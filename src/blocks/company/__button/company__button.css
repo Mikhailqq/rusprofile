@@ -1,0 +1,36 @@
+.company__button {
+    background: #346DF1;
+border: 2px solid #FFFFFF;
+box-shadow: -10px 29px 56px rgba(7, 20, 52, 0.26);
+border-radius: 10px;
+box-sizing: border-box;
+padding: 10px;
+display: flex;
+margin: auto;
+    margin-top: 10px;
+}
+/* .company__button:hover {
+	background: rgba(0,0,0,0);
+	color:  #346DF1;
+	box-shadow: inset 0 0 0 4px  #346DF1;
+	cursor: pointer;
+} */
+@keyframes bounce {
+	0%, 20%, 60%, 100% {
+		transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	40% {
+		transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+
+	80% {
+		transform: translateY(-10px);
+		transform: translateY(-10px);
+	}
+}
+.company__button:hover {
+	animation: bounce 1s;
+}

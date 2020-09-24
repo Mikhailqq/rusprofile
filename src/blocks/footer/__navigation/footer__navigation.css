@@ -1,0 +1,22 @@
+.footer__navigation {
+	font-size: 12px;
+    font-weight: 300;
+    padding: 15px 20px 9px;
+    column-count: 2;
+    column-gap: 10px;
+    box-sizing: content-box;
+    flex: 1;
+    min-width: 440px;
+    background: #ffff;
+    box-shadow: 0 4px 12px 0 hsla(0,0%,58.8%,.5);
+    margin: 0 12px;
+}
+
+
+@media all and (max-width : 1024px) {
+    .footer__navigation {
+        column-count: 1;
+		z-index: 1;
+		min-width: auto;
+    }
+}

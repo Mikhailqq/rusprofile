@@ -1,0 +1,13 @@
+@import url('./_right/description__images_right.css');
+
+.description__images {
+    position: absolute;
+    top: 200px;
+    left: 0;
+
+}
+@media all and (max-width : 1024px) {
+    .description__images {
+        opacity: .7;
+    }
+}

@@ -1,0 +1,8 @@
+.footer__image_right-pen {
+     position: absolute;
+     bottom: 0;
+         right: 100px;
+     width: 218px;
+     height: 165px;
+     object-fit: cover;
+}

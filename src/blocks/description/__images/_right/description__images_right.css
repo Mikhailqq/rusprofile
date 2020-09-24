@@ -1,0 +1,24 @@
+.description__images_right {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    width: 457px;
+    height: 569px;
+    object-fit: cover;
+}
+
+@media all and (max-width : 1024px) {
+    .description__images_right {
+        opacity: .7;
+    }
+}
+
+@media all and (max-width : 768px) {
+    .description__images_right {
+        right: 0;
+        opacity: .7;
+        width: 300px;
+        object-fit: fill;
+        height: auto;
+    }
+}

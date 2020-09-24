@@ -1,0 +1,10 @@
+@import url('./__title/intro__title.css');
+@import url('./__span/intro__span.css');
+@import url('./_section/intro_section.css');
+@import url('');
+
+.intro {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

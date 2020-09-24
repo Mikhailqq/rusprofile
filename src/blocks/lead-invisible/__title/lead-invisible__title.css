@@ -1,0 +1,9 @@
+.lead-invisible__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3A72F3;
+    opacity: 0.8;
+    margin: 0;
+}

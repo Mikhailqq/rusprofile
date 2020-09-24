@@ -1,0 +1,5 @@
+@import url('./_link/card__container_link.css');
+.card__container {
+	display: flex;
+	/*margin-bottom: 12px;*/
+}

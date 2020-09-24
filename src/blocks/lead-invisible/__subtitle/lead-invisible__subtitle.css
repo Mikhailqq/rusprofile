@@ -1,0 +1,9 @@
+.lead-invisible__subtitle {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #2D68F2;
+    opacity: 0.8;
+}

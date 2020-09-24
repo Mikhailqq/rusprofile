@@ -1,0 +1,19 @@
+.company-notion__wrapper {
+position: absolute;
+    width: 65px;
+    height: 28px;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+    border: 1px solid #346DF1;
+    box-sizing: border-box;
+    border-radius: 21px;
+}
+
+
+
+
+
+
+

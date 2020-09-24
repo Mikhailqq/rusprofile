@@ -1,0 +1,10 @@
+.caption__items {
+	max-width: 456px;
+	padding-left: 0;
+}
+@media all and (max-width : 768px) {
+    .caption__items {
+            font-size: 12px;
+            line-height: 16px;
+    }
+}

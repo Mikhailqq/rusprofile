@@ -1,0 +1,26 @@
+.footer__create {
+    max-width: 90px;
+    margin: 0 4px 0 20px;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    margin-top: 86px;
+    margin-right: 80px;
+    z-index: 1;
+}
+
+@media all and (max-width : 1024px) {
+    .footer__create {
+        top: 45%;
+        right: 0;
+        margin: 0;
+    }
+}
+@media all and (max-width : 768px) {
+    .footer__create {
+        top: 55%;
+        left: 4%;
+    }
+}

@@ -1,0 +1,7 @@
+.lead__container {
+	display: flex;
+  max-width: 391px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /*margin-left: 16px;*/
+}

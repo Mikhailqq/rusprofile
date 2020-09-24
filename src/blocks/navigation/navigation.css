@@ -1,0 +1,14 @@
+@import url('./__links/navigation__links.css');
+
+.navigation {
+    background-color: blue;
+    height: 290px;
+    box-sizing: border-box;
+    padding: 100px 140px;
+}
+
+@media all and (max-width : 1024px) {
+    .navigation {
+        padding: 100px 50px;
+    }
+}

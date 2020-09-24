@@ -1,0 +1,14 @@
+@import url('./__items/caption__items.css');
+@import url('./__title/caption__title.css');
+@import url('./__item/caption__item.css');
+@import url('./__link/caption__link.css');
+@import url('./_position/caption_position.css');
+@import url('./_direction/caption_direction.css');
+
+.caption {
+    margin: 0;
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    margin-left: 40px;
+}

@@ -1,0 +1,11 @@
+.card-company__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #346DF1;
+    opacity: 0.8;
+    margin: 0;
+    margin-top: 17px;
+    margin-bottom: 6px;
+}

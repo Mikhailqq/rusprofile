@@ -1,0 +1,10 @@
+.lead__span {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    color: #09C400;
+    margin-top: 5px;
+   /* margin-left: 16px;*/
+    margin-bottom: 16px;
+}

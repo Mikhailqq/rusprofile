@@ -1,0 +1,12 @@
+.footer__information {
+	display: flex;
+    -ms-align-items: center;
+    align-items: center;
+    margin-right: auto;
+}
+
+@media all and (max-width : 768px) {
+    .footer__information {
+        display: 
+    }
+}

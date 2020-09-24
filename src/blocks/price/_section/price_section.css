@@ -1,0 +1,9 @@
+.price_section {
+
+}
+
+@media all and (max-width : 1024px) {
+    .price.price_section {
+            padding: 0;
+    }
+}

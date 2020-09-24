@@ -1,0 +1,9 @@
+.description__container{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	justify-content: space-between;
+	align-items: center;
+	box-sizing: border-box;
+	padding-top: 140px;
+}

@@ -1,0 +1,9 @@
+.lead__paragraph {
+	margin: 0;
+  /*margin-left: 16px;*/
+  color:  #2D68F2;
+  font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+}

@@ -1,0 +1,7 @@
+.navigation__links {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    justify-content: space-between;
+}

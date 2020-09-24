@@ -1,0 +1,8 @@
+.page_section {
+	padding: 80px 100px;
+}
+@media all and (max-width : 1024px) {
+	.page_section {
+    	padding: 0;
+    }
+}

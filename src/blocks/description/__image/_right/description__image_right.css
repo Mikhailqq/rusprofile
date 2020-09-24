@@ -1,0 +1,17 @@
+.description__image_right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    object-fit: fill;
+    width: 174px;
+    height: 700px;
+}
+
+@media all and (max-width : 1024px) {
+    .description__image_right {
+        
+        height: 475px;
+        width: 155px;
+        object-fit: contain;
+    }
+}

@@ -1,0 +1,32 @@
+@import url('./_link/card_link.css');
+@import url('./__title/card__title.css');
+@import url('./__paragraph/card__paragraph.css');
+@import url('./__paragraph-span/card__paragraph-span.css');
+@import url('./__container/card__container.css');
+@import url('./__item/card__item.css');
+@import url('./__item-title/card__item-title.css');
+@import url('./__item-paragraph/card__item-paragraph.css');
+@import url('./__subtitle/card__subtitle.css');
+@import url('./__heading/card__heading.css');
+@import url('./__links/card__links.css');
+@import url('./__customer/card__customer.css');
+@import url('./__provider/card__provider.css');
+@import url('./_goverment/card_goverment.css');
+@import url('');
+@import url('');
+@import url('');
+
+
+.card {
+	display: flex;
+	flex-direction: column;
+	max-width: 340px;
+	/*max-height: 310px;	*/
+	box-sizing: border-box;
+	padding: 14px 18px 20px 18px;
+	background: #FFFFFF;
+box-shadow: 0px 22px 50px -4px rgba(0, 0, 0, 0.12);
+border-radius: 2px;
+z-index: 10000;
+margin-left: 20px;
+}

@@ -1,0 +1,42 @@
+@import url(./_active/menu__item_active.css);
+
+.menu__item {
+	font-size: 14px;
+line-height: 17px;
+color: #000;
+text-decoration: none;
+display: flex;
+    margin: 0;
+    align-items: center;
+    margin-right: 60px;
+}
+
+.menu__item:hover {
+	cursor: pointer;
+	border-bottom: 3px #000;
+	box-sizing: border-box;
+}
+
+.menu__item:last-child {
+	margin-right: 300px;
+}
+
+.menu__item:nth-child(2n) {
+	margin-right: 130px;
+}
+
+@media all and (max-width : 1024px) {
+	.menu__item {
+
+		margin-right: 30px;
+	}
+	.menu__item:nth-child(2n) {
+		margin-right: 50px;
+	}
+	.menu__item:last-child {
+		margin-right: 0;
+	}
+
+
+
+}

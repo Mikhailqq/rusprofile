@@ -1,0 +1,25 @@
+@import url('./__information/footer__information.css');
+@import url('./__feedback/footer__feedback.css');
+@import url('./__menu/footer__menu.css');
+@import url('./__menu-item/footer__menu-item.css');
+@import url('./__navigation/footer__navigation.css');
+@import url('./__navigation-item/footer__navigation-item.css');
+@import url('./__create/footer__create.css');
+@import url('./__image/footer__image.css');
+
+
+.footer {
+	background-color: #F2F2F2;
+box-sizing: border-box;
+padding: 80px 80px 30px 20px;
+display: flex;
+justify-content: space-between;
+position: relative;
+z-index: 1;
+}
+
+@media all and (max-width : 768px) {
+    .footer {
+        padding: 20px;
+    }
+}

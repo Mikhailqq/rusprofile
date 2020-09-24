@@ -1,0 +1,12 @@
+@import url('./_goverment/card__subtitle_goverment.css');
+
+
+.card__subtitle {
+	font-weight: 300;
+font-size: 13px;
+line-height: 19px;
+color: #464B50;
+margin: 0;
+margin-bottom: 11px;
+}
+

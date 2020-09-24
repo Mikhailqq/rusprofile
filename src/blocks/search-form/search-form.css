@@ -1,0 +1,7 @@
+@import url('./__input/search-form__input.css');
+
+.search-form {
+
+	background: linear-gradient(270deg, rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.3) 89.95%);
+	z-index: 7;
+}

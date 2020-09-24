@@ -1,0 +1,9 @@
+.table-cell__span {
+	font-style: normal;
+font-weight: bolder;
+font-size: 10px;
+line-height: 19px;
+text-transform: uppercase;
+color: #0C0E31;
+opacity: 0.8
+}

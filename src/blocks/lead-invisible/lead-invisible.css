@@ -1,0 +1,36 @@
+@import url('./__title/lead-invisible__title.css');
+@import url('./__date/lead-invisible__date.css');
+@import url('./__text/lead-invisible__text.css');
+@import url('./__image/lead-invisible__image.css');
+@import url('./__subtitle/lead-invisible__subtitle.css');
+
+.lead-invisible {
+    max-width: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    position: absolute;
+    top: 16%;
+    left: 12%;
+    overflow: hidden;
+    z-index: 0;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 6px 10px -2px rgba(0, 0, 0, 0.08);
+    border-radius: 2px;
+    box-sizing: border-box;
+    padding: 17px 23px;
+}
+
+@media all and (max-width : 1024px) {
+    .lead-invisible {
+        top: 9%;
+        left: 2%;
+    }
+}
+
+@media all and (max-width : 768px) {
+    .lead-invisible {
+        display: none;
+    }
+}

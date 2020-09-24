@@ -1,0 +1,9 @@
+.lead__text {
+	margin: 0;
+ /* margin-left: 16px;*/
+  margin-top: 8px;
+  font-weight: 300;
+font-size: 13px;
+line-height: 15px;
+color: #33393E;
+}

@@ -1,0 +1,13 @@
+@import url('./__subtitle/lead-item__subtitle.css');
+@import url('./__paragraph/lead-item__paragraph.css');
+
+
+.lead-item {
+	margin: 0;
+  margin-right: 50px;
+  margin-bottom: 14px;
+}
+
+.lead-item:last-child {
+  margin-right: 0px;
+}

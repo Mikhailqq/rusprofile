@@ -1,0 +1,8 @@
+@import url('./__title/company-heading__title.css');
+@import url('./__paragraph/company-heading__paragraph.css');
+
+.company-heading {
+	display: flex;
+	justify-content: space-between;
+	width: 472px;
+}

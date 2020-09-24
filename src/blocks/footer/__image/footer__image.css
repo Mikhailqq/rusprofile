@@ -1,0 +1,25 @@
+@import url('./_right/footer__image_right.css');
+@import url('./_right-pen/footer__image_right-pen.css');
+
+.footer__image {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    object-fit: cover;
+    height: 762px;
+    width: 273px;
+}
+
+@media all and (max-width : 1024px) {
+    .footer__image {
+        height: 890px;
+        width: 270px;
+    }
+}
+
+@media all and (max-width : 1024px) {
+    .footer__image {
+        display: none;
+
+    }
+}

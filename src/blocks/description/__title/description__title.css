@@ -1,0 +1,27 @@
+@import url('./_s/description__title_s.css');
+
+.description__title {
+max-width: 558px;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 46px;
+text-align: center;
+color: #3E3467;
+    margin: 0;
+z-index: 1;
+}
+
+/*@media screen and (max-width: 1024px) {
+    .search__title {
+        max-width: 70%;
+        font-size: 36px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 485px) {
+    .search__title {
+        max-width: 80%;
+    }
+}*/

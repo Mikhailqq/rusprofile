@@ -1,0 +1,6 @@
+.analytics__item {
+	display: flex;
+	flex-direction: column;
+	/*max-width: 304px;*/
+	margin-bottom: 8px;
+}

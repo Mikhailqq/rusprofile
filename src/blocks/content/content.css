@@ -1,0 +1,8 @@
+.content {
+    max-width: 1440px;
+}
+@media all and (max-width : 1024px) {
+  .content {
+    max-width: 1024px;
+   }
+}

@@ -1,0 +1,15 @@
+@import url('./__text/company-notion__text.css');
+@import url('./__wrapper/company-notion__wrapper.css');
+
+
+.company-notion {
+	max-width: 472px;
+	background: #F3F2E8;
+border-radius: 2px;
+box-sizing: border-box;
+padding: 12px;
+position: relative;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}

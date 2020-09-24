@@ -1,0 +1,35 @@
+.search-form__input {
+	width: 40%;
+	height: 56px;
+	background: #F9F9F9;
+border: 2px solid #0019FF;
+box-sizing: border-box;
+box-shadow: 0px 16px 30px -8px rgba(0, 0, 0, 0.16);
+border-radius: 8px;
+}
+
+.search-form__input::placeholder {
+	font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+box-sizing: border-box;
+padding-left: 18px;
+color: #3E3467;
+}
+
+@media screen and (max-width: 1024px) {
+    .search-form__input::placeholder {
+		font-size: 13px;
+		line-height: 13px;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .search-form__input::placeholder {
+		font-size: 10px;
+		line-height: 13px;
+
+    }
+}
