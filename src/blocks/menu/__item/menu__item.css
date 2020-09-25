@@ -40,3 +40,8 @@ display: flex;
 
 
 }
+@media all and (max-width : 768px) {
+    .menu__item {
+        display: none;
+    }
+}

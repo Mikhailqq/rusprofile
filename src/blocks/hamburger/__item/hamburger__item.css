@@ -1,0 +1,14 @@
+.hamburger__item {
+    display: block;
+    padding: 12px 24px;
+    color: #3E3467;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    transition-duration: .25s;
+}
+
+.hamburger__item:hover {
+    background-color: #CFD8DC;
+}

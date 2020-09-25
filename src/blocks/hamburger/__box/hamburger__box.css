@@ -1,0 +1,14 @@
+.hamburger__box {
+    display: block;
+    position: fixed;
+    visibility: hidden;
+    top: 0;
+    right: 0;
+    width: 300px;
+    margin: 0;
+    padding: 80px 20px;
+    list-style: none;
+    background-color: #FFFFFF;
+    box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
+    transition-duration: .25s;
+}
